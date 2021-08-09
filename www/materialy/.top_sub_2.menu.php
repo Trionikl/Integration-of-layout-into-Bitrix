@@ -1,0 +1,32 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Кварцевый агломерат", 
+		"/materialy/kvartsevyy-aglomerat/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Гранит", 
+		"/materialy/granit/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Мрамор", 
+		"/materialy/mramor/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Оникс", 
+		"/materialy/oniks/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>

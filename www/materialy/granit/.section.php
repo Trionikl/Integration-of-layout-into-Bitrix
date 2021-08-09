@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Гранит";
+$arDirProperties = Array(
+
+);
+?>

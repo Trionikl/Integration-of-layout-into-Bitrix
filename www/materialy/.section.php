@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Материалы";
+$arDirProperties = Array(
+
+);
+?>
